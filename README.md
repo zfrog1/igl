@@ -123,9 +123,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any issues or have questions, please:
-- Open an issue in the GitHub repository
-- Contact us at support@germanlanguageapp.com
-- Check our [FAQ](docs/FAQ.md) section
+- fix it yourself. this is just for fun.
 
 ## Roadmap
 
