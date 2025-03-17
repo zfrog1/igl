@@ -1,4 +1,4 @@
-# German Language Learning Application
+# Interactive German Learning (IGL)
 
 An interactive web application designed to help users practice German language skills through realistic scenario-based conversations. The application features speech recognition, text-to-speech capabilities, and real-time translations.
 
